@@ -6,7 +6,7 @@ I'm a web developer student at Le Wagon Melbourne 🚀
 - 🌱 I’m learning Full Stack Development
 - 💬 Ask me about: Ruby, OOP, and Web development
 - 📫 How to reach me: dominique.odea@gmail.com
-- 👔 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dominique-o-dea-2987331aa)
+- 👔 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dominique-o-dea-2987331aa)
 
 ## 🛠️ Tools & Languages
 
